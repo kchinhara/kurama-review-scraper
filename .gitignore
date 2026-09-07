@@ -1,0 +1,7 @@
+node_modules/
+.playwright-profile/
+.env.local
+clients/
+z-logs/
+images/
+debug_*

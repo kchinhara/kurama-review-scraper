@@ -1,0 +1,15 @@
+{
+  "name": "kurama-review-scraper",
+  "version": "1.0.0",
+  "description": "Zero-cost Google Maps review scraper using Playwright - no API keys, no proxies",
+  "private": true,
+  "scripts": {
+    "scrape": "node scripts/scrape-reviews.cjs",
+    "report": "node scripts/generate-review-report.cjs"
+  },
+  "dependencies": {
+    "playwright": "^1.49.0",
+    "playwright-extra": "^4.3.6",
+    "puppeteer-extra-plugin-stealth": "^2.11.2"
+  }
+}
