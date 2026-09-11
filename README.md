@@ -143,4 +143,4 @@ kurama-review-scraper/
 
 ## License
 
-Private - internal tool for [Agentic PPC Ads](https://agenticppcads.com).
+MIT
